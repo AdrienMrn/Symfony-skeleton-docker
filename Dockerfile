@@ -29,6 +29,7 @@ RUN apk add --no-cache \
 		file \
 		gettext \
 		git \
+        linux-headers \
 	;
 
 RUN set -eux; \
