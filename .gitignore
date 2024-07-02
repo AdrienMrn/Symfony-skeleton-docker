@@ -47,3 +47,7 @@ ehthumbs_vista.db
 .idea/
 .idea_modules/
 ###< IDE gitignore ###
+###> symfony/asset-mapper ###
+/public/assets/
+/assets/vendor/
+###< symfony/asset-mapper ###
